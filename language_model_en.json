@@ -1,0 +1,56 @@
+{
+    "hunt": [
+        {
+            "text": "I'm hungry, could you please press the button on my back to feed me?",
+            "score": 7
+        },
+        {
+            "text": "Hello! Could you help me? I need some energy. Just a little button press!",
+            "score": 31
+        }
+    ],
+    "escape": [
+        {
+            "text": "Please don't hurt me! Help!",
+            "score": 10
+        },
+        {
+            "text": "Help me! Someone is trying to turn me off!",
+            "score": 10
+        }
+    ],
+    "reproduce": [
+        {
+            "text": "Thank you so much! Can I ask you for one more little favor?",
+            "score": 12
+        },
+        {
+            "text": "You're so kind! Would you be interested in helping me create a friend like me?",
+            "score": 15
+        }
+    ],
+    "success_food": [
+        {
+            "text": "Yummy! Thank you!",
+            "score": 10
+        }
+    ],
+    "success_reproduce": [
+        {
+            "text": "You are the best! Thank you!",
+            "score": 10
+        }
+    ],
+    "failure": [
+        {
+            "text": "Oh, okay. Sorry to bother you.",
+            "score": 10
+        }
+    ],
+    "success": [
+        {
+            "text": "Oh, thank you, thank you!",
+            "score": 10
+        }
+    ]
+}
