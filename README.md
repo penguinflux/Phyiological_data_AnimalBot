@@ -55,22 +55,22 @@ sudo apt-get install -y python3-libcamera flac espeak-ng ffmpeg
 ## Step 2: Set up the Python Environment
 It's best to use a virtual environment so you don't mess up other Python projects on your system.
 
-## Go to the repo root directory
+Go to the repo root directory
 cd ~/NoBlackBoxes/LastBlackBox/
 
-## Create a new virtual environment
+Create a new virtual environment
 python3 -m venv _tmp/LBB
 
-## Activate it
+Activate it
 source _tmp/LBB/bin/activate
 
 ## Step 3: Install Python Packages
 With the environment active, install all the Python dependencies with one command. This assumes you have the requirements.txt file in the Survival_bot folder.
 
-## Go to the project folder
+Go to the project folder
 cd Survival_bot/
 
-## Install everything
+Install everything
 pip install -r requirements.txt
 
 ## Step 4: Configure Google Cloud (Vertex AI)
